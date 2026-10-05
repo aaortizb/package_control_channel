@@ -673,17 +673,16 @@
 				}
 			]
 		},
-        {
-            "name": "niceDarkTheme",
-            "details": "https://github.com/aaortizb/niceDarkTheme",
-            "labels": ["theme", "color scheme"],
-            "releases": [
-                {
-                    "sublime_text": ">=4200",
-                    "tags": true
-                }
-            ]
-        },
+		{
+			"details": "https://github.com/aaortizb/niceDarkTheme",
+			"labels": ["theme", "color scheme"],
+			"releases": [
+				{
+					"sublime_text": ">=4206",
+					"tags": true
+				}
+			]
+		},
 		{
 			"name": "Night Owl",
 			"details": "https://github.com/VonHeikemen/night-owl-sublime-scheme",
