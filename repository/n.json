@@ -675,7 +675,7 @@
 		},
 		{
 			"details": "https://github.com/aaortizb/niceDarkTheme",
-			"labels": ["theme", "color scheme"],
+			"labels": ["theme", "color scheme", "file icon theme"],
 			"releases": [
 				{
 					"sublime_text": ">=4206",
