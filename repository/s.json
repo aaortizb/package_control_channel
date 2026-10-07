@@ -824,11 +824,11 @@
 		},
 		{
 			"name": "Search in Project",
-			"details": "https://github.com/leonid-shevtsov/SearchInProject_SublimeText",
+			"details": "https://github.com/deese/SearchInProject_SublimeText",
 			"labels": ["search"],
 			"releases": [
 				{
-					"sublime_text": "*",
+					"sublime_text": ">=4200",
 					"tags": true
 				}
 			]
@@ -2926,7 +2926,7 @@
 			"name": "Solarized Color Scheme",
 			"details": "https://github.com/braver/Solarized",
 			"donate": "https://ko-fi.com/koenlageveen",
-			"labels": ["color scheme"],
+			"labels": ["color scheme", "theme", "file icon theme"],
 			"releases": [
 				{
 					"sublime_text": ">=3000",
@@ -2983,6 +2983,17 @@
 			"releases": [
 				{
 					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Sonokai",
+			"details": "https://github.com/huyhoang8398/Sonokai",
+			"labels": ["color scheme"],
+			"releases": [
+				{
+					"sublime_text": "*",
 					"tags": true
 				}
 			]
